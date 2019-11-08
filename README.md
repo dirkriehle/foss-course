@@ -1,6 +1,6 @@
-# Free (/Libre,) and Open Source Software (FOSS)
+# Free and Open Source Software (FOSS)
 
-This course teaches principles and economic underpinnings of free (/libre,) and open source software in classic lecture form.
+This course teaches principles and economic underpinnings of free and open source software in classic lecture form.
 
 Overview: https://dirkriehle.com/open-courses/free-and-open-source-software/
 
