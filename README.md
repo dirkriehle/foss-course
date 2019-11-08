@@ -17,6 +17,7 @@ Youtube: https://www.youtube.com/playlist?list=PLQ2ODVSeOYlU0iFTk-rYqzzgTMT4MJnZ
 - Project communities
 - Engineering processes
 - Development tooling
+- Inner source
 
 ### Open source economics
 
