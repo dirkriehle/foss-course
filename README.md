@@ -1,7 +1,29 @@
-# Free / Libre, and Open Source Software (FLOSS)
+# Free / Libre, and Open Source Software (FOSS)
 
-https://dirkriehle.com/open-courses/free-libre-and-open-source-software/
+This course teaches principles and economic underpinnings of free/libre, and open source software in classic lecture form.
 
-A course on free/libre and open source software. 
+Overview: https://dirkriehle.com/open-courses/free-and-open-source-software/
 
-Watch the videos on my YT channel at https://www.youtube.com/dirkriehle
+Youtube: https://www.youtube.com/playlist?list=PLQ2ODVSeOYlU0iFTk-rYqzzgTMT4MJnZV
+
+## Class sessions
+
+### Open source basics
+
+- Course introduction
+- Overview and history
+- Intellectual property
+- Corporate governance
+- Project communities
+- Engineering processes
+- Development tooling
+
+### Open source economics
+
+- The software industry
+- Developer foundations
+- User-led foundations
+- Service and support firms
+- Open source distributors
+- Single-vendor open source
+- Labor economics
