@@ -1,30 +1,11 @@
-# Free and Open Source Software (FOSS)
+# Free (/Libre,) and Open Source Software (FOSS)
 
-This course teaches principles and economic underpinnings of free and open source software in classic lecture form.
+Students learn principles, practices, and economic underpinnings of free/libre, and open source software.
 
-Overview: https://dirkriehle.com/open-courses/free-and-open-source-software/
+Overview is at https://dirkriehle.com/open-courses/free-and-open-source-software/
 
-Youtube: https://www.youtube.com/playlist?list=PLQ2ODVSeOYlU0iFTk-rYqzzgTMT4MJnZV
+YouTube playlist is at https://youtube.com/playlist?list=PLQ2ODVSeOYlXtMfsO-JrL--lnFRbAaLHL
 
-## Class sessions
+Slides are here at https://github.com/dirkriehle/foss-course/
 
-### Open source basics
-
-- Course introduction
-- Overview and history
-- Intellectual property
-- Corporate governance
-- Project communities
-- Engineering processes
-- Development tooling
-- Inner source
-
-### Open source economics
-
-- The software industry
-- Developer foundations
-- User-led foundations
-- Service and support firms
-- Open source distributors
-- Single-vendor open source
-- Labor economics
+Please note that the course has been discontinued and replaced with https://profriehle.com/coss
